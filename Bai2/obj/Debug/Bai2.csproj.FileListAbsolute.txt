@@ -1,0 +1,7 @@
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\bin\Debug\Bai2.exe.config
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\bin\Debug\Bai2.exe
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\bin\Debug\Bai2.pdb
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\obj\Debug\Bai2.exe
+E:\Documents\Thuc Hanh C#(IT008)\BTH1_HaGiaBao_24520150\Bai2\obj\Debug\Bai2.pdb
