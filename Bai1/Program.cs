@@ -56,8 +56,8 @@ namespace Bai1
                 try
                 {
                     n = int.Parse(Console.ReadLine());
-                    if (n> 0) break;
-                    Console.WriteLine("Du lieu nhap khong hop le. Vui long nhap lai");
+                    if (n>= 0) break;
+                    //Console.WriteLine("Du lieu nhap khong hop le. Vui long nhap lai");
                 }
                 catch
                 {
@@ -67,10 +67,11 @@ namespace Bai1
             }
             
             int[] a = new int[n];
-            Random rd = new Random();
+            //Random rd = new Random();
             for (int i=0;i<a.Length;i++)
             {
-                a[i] = rd.Next(-100, 100);
+                Console.Write("Nhap phan tu thu {0}:", i + 1);
+                a[i] = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("Mang da tao la: ");
             foreach(int i in a)

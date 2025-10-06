@@ -48,13 +48,14 @@ namespace Bai6
             }
 
             int[,] MaTran = new int[n, m];
-            Random rd = new Random();
+            //Random rd = new Random();
 
             for(int i=0;i<n;i++)
             {
                 for(int j=0;j<m;j++)
                 {
-                    MaTran[i, j] = rd.Next(-100, 100);
+                    Console.WriteLine("Nhap phan tu dong {0} cot {1}", i + 1, j + 1);
+                    MaTran[i, j] = int.Parse(Console.ReadLine());
                 }
             }
             while (true)
@@ -238,11 +239,11 @@ namespace Bai6
                             m--;
                             goto LABLE;
                         }
-                        return;
+                        
                     }
 
                 }
-
+                return;
             }
         }
     }
