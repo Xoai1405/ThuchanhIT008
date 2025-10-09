@@ -57,7 +57,7 @@ namespace Bai1
                 {
                     n = int.Parse(Console.ReadLine());
                     if (n>= 0) break;
-                    //Console.WriteLine("Du lieu nhap khong hop le. Vui long nhap lai");
+                    Console.WriteLine("Du lieu nhap khong hop le. Vui long nhap lai");
                 }
                 catch
                 {
